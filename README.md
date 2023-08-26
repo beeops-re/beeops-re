@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Billy from Reunion Island 🇷🇪
-- 👀 I’m interested in DevOps and Cybersecurity !
+- 👀 I’m DevOps and Cybersecurity enthusiast !
 - 🌱 I’m looking to collaborate on IT projects
 - 📫 How to reach me ?
   - [LinkedIn](https://www.linkedin.com/in/billypayet/)
