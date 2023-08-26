@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Billy from Reunion Island 🇷🇪
-- 👀 I’m DevOps and Cybersecurity enthusiast !
+- 👋 Hi, I’m Billy an remote IT Consultant from Reunion Island 🇷🇪
+- 👀 I’m DevOps and Cybersecurity enthusiast who likes to share 🕊️
 - 🌱 I’m looking to collaborate on IT projects and help to protect against Cyber threats 🛡️
 - 📫 How to reach me ?
   - [LinkedIn](https://www.linkedin.com/in/billypayet/)
